@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package >
   <metadata>
-    <id>1111</id>
-    <version>0.0.2</version>
+    <id>TulparResponses</id>
+    <version>1.0.4</version>
     <title>Response Classes</title>
     <authors>KaanAkcan</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <!-- <icon>icon.png</icon> -->
-    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>	
-    <description>Tulpar Response Nuget Package</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <icon> TulparIkon.jpg</icon>
+    <projectUrl>https://github.com/KaanAkcan1/TulparResponses.v1</projectUrl>
+	<!--<iconUrl>"TulparIkon.jpg"</iconUrl>-->
+    <description>Tulpar Responses Nuget Package</description>
+    <releaseNotes>Second Debug</releaseNotes>
     <copyright>$copyright$</copyright>
-    <tags>Tag1 Tag2</tags>
+    <tags>Response C#</tags>
   </metadata>
+	<files>
+		
+		<file src="TulparIkon.jpg" target="TulparIkon.jpg"></file>
+	</files>
 </package>
